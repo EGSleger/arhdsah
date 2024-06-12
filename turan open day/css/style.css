@@ -38,7 +38,6 @@ main {
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-    position: fixed;
     Background: #fff;
 }
 .main{
@@ -153,7 +152,11 @@ main {
     background-color: #D9D9D9;
     border-radius: 48px;
 }
-
+input{
+    font-family: 'Roboto_regular';
+    color: #02A4FF;
+    text-align: center;
+}
 .input::placeholder {
     font-family: 'Roboto_regular';
     color: #02A4FF;
