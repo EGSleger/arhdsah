@@ -39,6 +39,7 @@ main {
     flex-direction: column;
     justify-content: space-around;
     position: fixed;
+    Background: #fff;
 }
 .main{
     display: flex;
